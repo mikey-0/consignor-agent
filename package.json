@@ -11,7 +11,16 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@notionhq/client": "^4.0.1",
     "node-fetch": "^3.3.2",
     "notion-client": "^7.4.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey-0/consignor-agent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikey-0/consignor-agent/issues"
+  },
+  "homepage": "https://github.com/mikey-0/consignor-agent#readme"
 }
